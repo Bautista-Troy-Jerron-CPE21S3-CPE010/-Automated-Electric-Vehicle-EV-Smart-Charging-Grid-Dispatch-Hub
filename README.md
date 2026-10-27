@@ -4,10 +4,13 @@
 This repository contains the laboratory activities, seatworks, source codes and PDFs for CPE 010: Data Structures and Algorithms for the 1st Semester, S.Y. 2026–2027 at the Technological Institute of the Philippines.
 
 ## Student & Course Information
-
-| \Team Members | Bautista, Troy Jerron A.\Fabonan, Kurt Lorenz C.\Geronimo, Joncel Zairho G.\Salcedo, Lance Cristopher S.\Santos, Paterno Miguel R. |
-| ----- | ----- | ----- |
-
+| Team Members | Main Role |
+| ----- | ----- |
+| Bautista, Troy Jerron A. | Data Presenter |
+| Fabonan, Kurt Lorenz C. | Full Stack Developer |
+| Geronimo, Joncel Zairho G. | Backend Developer |
+| Salcedo, Lance Cristopher S. | Frontend Developer |
+| Santos, Paterno Miguel R. | Project Leader |
 
 ## Course Objectives
 The course aims to:
