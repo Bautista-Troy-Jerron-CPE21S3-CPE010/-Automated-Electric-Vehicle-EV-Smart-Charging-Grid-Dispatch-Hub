@@ -1,4 +1,3 @@
-@@ -1 +1,92 @@
 # Data-Structure-and-Algorithms
 
 # Data Structures and Algorithms
@@ -6,21 +5,8 @@ This repository contains the laboratory activities, seatworks, source codes and 
 
 ## Student & Course Information
 
-* **Student Name:** Santos, Paterno Miguel R.
-
-* **Course Code:** CPE-010
-
-* **Course Title:** Data Structures and Algorithms
-
-* **Section:** CPE21S3
-
-* **School Year:** S.Y. 2026–2027 (1st Semester)
-
-* **Instructor:** Engr. Jimlord Quejado
-
-
-## Course Description
-This course focuses on solving computational problems that manipulate collected data by studying a core set of data abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. Course content includes theoretical topics in algorithmic efficiency and complexity, abstract data types including graphs, trees, heaps, stacks, and priority queues, searching, hashing, and sorting algorithms implemented in C++.
+| \Team Members | Bautista, Troy Jerron A.\Fabonan, Kurt Lorenz C.\Geronimo, Joncel Zairho G.\Salcedo, Lance Cristopher S.\Santos, Paterno Miguel R. |
+| ----- | ----- | ----- |
 
 
 ## Course Objectives
