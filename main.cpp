@@ -260,18 +260,17 @@ int main() {
 			    std::cout << "\nv - - - Transaction Sorter - - - v\n";
 			
 			    std::vector<Trans> transactions = {};
+				   transaction.sortTrans(transactions);
 			
 			    std::cout << "\n"
 			              << "*------------------------------------------*\n"
 			              << "> Unsorted Transactions:\n";
-			
 			    for(const auto& t : transactions){
 			        std::cout << " | Plate: " << t.plate_num
 			                  << " | kWh: " << t.kWh_used
 			                  << " | Total: " << t.total << "\n";
 			    }
 			
-			    transaction.sortTrans(transactions);
 			
 			    std::cout << "\n> Sorted Transactions by kWh:\n";
 			
